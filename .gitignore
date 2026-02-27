@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Banco de Dados e Configurações
+*.db
+.env
+
+# Executáveis e Compilação
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
