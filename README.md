@@ -1,6 +1,3 @@
-Aqui está o conteúdo do arquivo README.md formatado em Markdown puro. Você pode copiar todo o bloco abaixo e colar diretamente no seu arquivo.
-
-Markdown
 # 🎮 Nintendo Sniper v4.0
 
 O **Nintendo Sniper** é uma aplicação automatizada de monitoramento de preços para a eShop da Nintendo brasileira. O projeto utiliza web scraping em tempo real para capturar valores, armazena o histórico em um banco de dados local (SQLite) e envia alertas instantâneos via Telegram sempre que um jogo atinge o preço alvo ou bate um recorde histórico de desconto.
